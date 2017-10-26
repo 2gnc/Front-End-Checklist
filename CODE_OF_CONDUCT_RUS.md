@@ -35,7 +35,7 @@
 
 ## Источник
 
-Настоящий кодекс является адаптацией [Contributor Covenant][homepage], version 1.4, ссылка: [http://contributor-covenant.org/version/1/4][version]
+Настоящий кодекс является адаптацией [Contributor Covenant](http://contributor-covenant.org/), [версия 1.4](http://contributor-covenant.org/version/1/4)
 
 [домашняя страница]: http://contributor-covenant.org
 [версия]: http://contributor-covenant.org/version/1/4/
